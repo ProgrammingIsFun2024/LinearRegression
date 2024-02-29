@@ -1,1 +1,3 @@
-# LinearRegression
+This study will explore the relationship between life expectancy and predictive factors across 4 key aspects – immunization-related factors, mortality factors, economical factors and social factors.
+19 explanatory variables were selected to build the complete model. Through automatic selection and all possible regression methods, three models were selected with 11 variables as potentially globally optimized models based on Mallow’s C_p, PRESS_p, R_adjuste^2 and AIC_p. 
+Finally, model validation was conducted for three potentially globally optimized models.Compared the descriptive and predictive powers of each model,one model was chosen to be the global optimal model.
