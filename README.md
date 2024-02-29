@@ -1,3 +1,4 @@
-This study will explore the relationship between life expectancy and predictive factors across 4 key aspects – immunization-related factors, mortality factors, economical factors and social factors.
-19 explanatory variables were selected to build the complete model. Through automatic selection and all possible regression methods, three models were selected with 11 variables as potentially globally optimized models based on Mallow’s C_p, PRESS_p, R_adjuste^2 and AIC_p. 
-Finally, model validation was conducted for three potentially globally optimized models.Compared the descriptive and predictive powers of each model,one model was chosen to be the global optimal model.
+This study aims to investigate the correlation between life expectancy and various predictive factors across four key domains: immunization-related factors, mortality factors, economic factors, and social factors. 
+A total of 19 explanatory variables were carefully selected to construct the comprehensive model. By employing automatic selection and various regression techniques, three models were identified as potentially globally optimized, based on criteria such as Mallow’s Cp, PRESSp, R_adjusted square, and AICp. 
+Subsequently, model validation was performed for these three potentially optimized models. After comparing their descriptive and predictive capabilities, one model emerged as the optimal choice. 
+The analysis was conducted using a combination of SPSS and Python.
